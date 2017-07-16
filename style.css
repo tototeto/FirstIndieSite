@@ -53,3 +53,25 @@ footer {
 	margin: 5px;
 } 
 
+.link {
+	border: 3px solid black;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #444;
+	margin: 10px;
+	padding: 7px;
+	background-color: #9fb;
+}
+
+.link h3 {
+	text-align: center;
+}
+
+.link img {
+	width: 100px;
+	margin: 5px;
+	float: right;
+} 
+
+.link .a {
+	font-size: 150%;
+}
