@@ -4,7 +4,7 @@ body {
 }
 
 .top {
-	
+	background-color: #faa;
 }
 
 .top h1 {
@@ -22,5 +22,14 @@ body {
 }
 
 .mid {
-	
+	margin: 10px 10%;
+}
+
+.mid h2 {
+	text-align: center;
+}
+
+footer {
+	border: 3px double #fa9;
+	text-align: center;
 }
