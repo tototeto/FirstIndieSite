@@ -34,3 +34,22 @@ footer {
 	border: 3px double #fa9;
 	text-align: center;
 }
+
+.rev {
+	border: 3px solid black;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #444;
+	margin: 10px;
+	padding: 7px;
+	background-color: #9fb;
+}
+
+.rev h3 {
+	text-align: center;
+}
+
+.rev img {
+	float: left;
+	margin: 5px;
+}
+
