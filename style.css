@@ -1,0 +1,17 @@
+body {
+	/* Background is just a placeholder, please change*/
+	background-color: #99bbff;
+}
+
+.top {
+	
+}
+
+.top h1 {
+	text-align: center;
+}
+
+.top nav {
+	float: right;
+	margin-right: 15px;
+}
